@@ -165,6 +165,7 @@ function reset_round() {
 
 *{
   padding: 10px;
+  color: white;
 }
 
 
